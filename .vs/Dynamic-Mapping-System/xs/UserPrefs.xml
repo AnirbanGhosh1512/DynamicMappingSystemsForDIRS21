@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{FE34622D-2AD5-4213-8CF4-39C03EDB1AF8}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DTOs/GoogleReservationDTO.cs">
+    <Files>
+      <File FileName="Program.cs" Line="32" Column="124" />
+      <File FileName="Models/GoogleReservation.cs" Line="9" Column="52" />
+      <File FileName="Models/Reservation.cs" Line="9" Column="49" />
+      <File FileName="Mappers/GoogleReservationMapper.cs" Line="13" Column="71" />
+      <File FileName="Mappers/DIRS21ReservationMapper.cs" Line="24" Column="48" />
+      <File FileName="DTOs/ReservationDTO.cs" Line="1" Column="1" />
+      <File FileName="DTOs/GoogleReservationDTO.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dynamic-Mapping-System" expanded="True">
+            <Node name="Dynamic-Mapping-System" expanded="True">
+              <Node name="DTOs" expanded="True">
+                <Node name="GoogleReservationDTO.cs" selected="True" />
+              </Node>
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Mappers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Tests" expanded="True" />
+              <Node name="Validators" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Dynamic-Mapping-System PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

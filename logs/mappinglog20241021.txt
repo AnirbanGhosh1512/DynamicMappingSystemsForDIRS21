@@ -1,0 +1,78 @@
+2024-10-21 18:31:32.147 +05:30 [INF] Application Starting...
+2024-10-21 18:31:38.601 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 18:31:47.117 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 18:31:50.793 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 18:31:54.882 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 18:32:00.264 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 19:10:50.503 +05:30 [INF] Application Starting...
+2024-10-21 19:11:02.727 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 19:11:08.917 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 19:11:12.876 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 19:11:18.001 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 19:11:21.989 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 20:31:29.313 +05:30 [INF] Application Starting...
+2024-10-21 20:31:37.684 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 20:31:41.368 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 20:31:45.506 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 20:31:49.836 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 20:31:56.962 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 20:33:21.556 +05:30 [INF] Application Starting...
+2024-10-21 20:33:38.108 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 20:33:44.323 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 20:33:48.254 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 20:33:52.791 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 20:33:56.917 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 22:38:23.518 +05:30 [INF] Application Starting...
+2024-10-21 22:38:51.994 +05:30 [INF] Application Starting...
+2024-10-21 22:38:52.081 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 22:38:52.081 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 22:38:52.082 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 22:38:52.082 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 22:39:03.543 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 22:53:01.442 +05:30 [INF] Application Starting...
+2024-10-21 22:53:01.512 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 22:53:01.513 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 22:53:01.513 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 22:53:01.513 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 22:53:06.022 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 22:56:06.748 +05:30 [INF] Application Starting...
+2024-10-21 22:56:06.825 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 22:56:06.826 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 22:56:06.826 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 22:56:06.826 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 22:56:14.618 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 22:58:46.055 +05:30 [INF] Application Starting...
+2024-10-21 22:58:46.140 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 22:58:46.140 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 22:58:46.141 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 22:58:46.142 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 22:58:51.698 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 22:59:14.671 +05:30 [INF] Application Ending...
+2024-10-21 23:00:10.336 +05:30 [INF] Application Starting...
+2024-10-21 23:00:10.368 +05:30 [INF] Attempting to map Reservation to ReservationDTO
+2024-10-21 23:00:10.369 +05:30 [INF] Source type: Reservation
+2024-10-21 23:00:10.369 +05:30 [INF] Mapping from DIRS21 Reservation to ReservationDTO successful.
+2024-10-21 23:00:10.369 +05:30 [INF] Attempting to map ReservationDTO to GoogleReservation
+2024-10-21 23:00:10.369 +05:30 [INF] Source type: ReservationDTO
+2024-10-21 23:00:10.369 +05:30 [INF] Application Ending...
+2024-10-21 23:00:10.370 +05:30 [INF] Application Starting...
+2024-10-21 23:00:10.400 +05:30 [INF] Attempting to map GoogleReservation to GoogleReservationDTO
+2024-10-21 23:00:19.638 +05:30 [INF] Source type: GoogleReservation
+2024-10-21 23:00:19.647 +05:30 [INF] Mapping from Google Reservation to Google ReservationDTO successful.
+2024-10-21 23:00:19.648 +05:30 [INF] Attempting to map GoogleReservationDTO to DIRS21Reservation
+2024-10-21 23:00:19.649 +05:30 [INF] Source type: GoogleReservationDTO
+2024-10-21 23:00:19.650 +05:30 [INF] Application Ending...
+2024-10-21 23:00:19.652 +05:30 [INF] Application Starting...
+2024-10-21 23:00:19.657 +05:30 [INF] Attempting to map Room to RoomDTO
+2024-10-21 23:00:19.658 +05:30 [INF] Source type: Room
+2024-10-21 23:00:19.658 +05:30 [INF] Mapping from DIRS21 Room to RoomDTO successful.
+2024-10-21 23:00:19.659 +05:30 [INF] Attempting to map RoomDTO to GoogleRoom
+2024-10-21 23:00:19.659 +05:30 [INF] Source type: RoomDTO
+2024-10-21 23:00:19.660 +05:30 [INF] Application Ending...
+2024-10-21 23:00:19.661 +05:30 [INF] Application Starting...
+2024-10-21 23:00:19.669 +05:30 [INF] Attempting to map GoogleRoom to GoogleRoomDTO
+2024-10-21 23:00:19.669 +05:30 [INF] Source type: GoogleRoom
+2024-10-21 23:00:19.670 +05:30 [INF] Mapping from Google Room to Google RoomDTO successful.
+2024-10-21 23:00:19.670 +05:30 [INF] Attempting to map GoogleRoomDTO to DIRS21Room
+2024-10-21 23:00:26.754 +05:30 [INF] Source type: GoogleRoomDTO
+2024-10-21 23:00:32.542 +05:30 [INF] Application Ending...
